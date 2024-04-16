@@ -1,5 +1,5 @@
 # Git-Prac
 <br>
-Prac:- Sarmad Khan
-Let's Start with GitHub
-Something new to learn
+Prac:- Sarmad Khan <br>
+Let's Start with GitHub <br>
+Something new to learn <br>
